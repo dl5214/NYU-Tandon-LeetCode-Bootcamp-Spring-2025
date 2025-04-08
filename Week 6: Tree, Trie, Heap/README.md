@@ -1,4 +1,4 @@
-# Week 5: Tree, Trie & Heap
+# Week 6: Tree, Trie & Heap
 
 Welcome to the fifth week of our LeetCode Bootcamp. This week, we will dive into Tree, Trie & Heap in Python, alongside introducing powerful problem-solving patterns.
 
